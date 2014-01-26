@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiddlerCoreApiDemo", "FiddlerCoreApiDemo\FiddlerCoreApiDemo.csproj", "{59B14A2D-61E7-4151-B216-0F5908E4EEDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D5C1C71-A468-4BED-B95F-FC22797452E1}"
+	ProjectSection(SolutionItems) = preProject
+		FiddlerCoreApiSolution.vsmdi = FiddlerCoreApiSolution.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = FiddlerCoreApiSolution.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Debug|x86.ActiveCfg = Debug|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Debug|x86.Build.0 = Debug|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Release|Any CPU.ActiveCfg = Release|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Release|x86.ActiveCfg = Release|x86
+		{59B14A2D-61E7-4151-B216-0F5908E4EEDF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
